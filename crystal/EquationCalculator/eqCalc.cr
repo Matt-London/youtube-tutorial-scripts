@@ -1,5 +1,5 @@
 ## TUTORIAL LINK:
-#
+# https://www.youtube.com/watch?v=XqcVYCg6vNQ
 
 # Grab the points
 print "X1: "
