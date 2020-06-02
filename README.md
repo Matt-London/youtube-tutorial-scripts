@@ -1,2 +1,2 @@
-# crystal-equation-calculator
-Basic linear equation calculator from two points in the crystal language. Tutorial on my Youtube Channel
+# youtube-tutorial-scripts
+Here you can find all of the code for my programs that I have written on Youtube, as well as a link to the video

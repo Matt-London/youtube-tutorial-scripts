@@ -1,3 +1,6 @@
+## TUTORIAL LINK:
+#
+
 # Grab the points
 print "X1: "
 xone = gets.not_nil!.chomp.to_f
