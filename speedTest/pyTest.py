@@ -16,5 +16,4 @@ def sort(l):
 
 sort(toSort)
 
-# print(len(toSort))
 # print(toSort)
