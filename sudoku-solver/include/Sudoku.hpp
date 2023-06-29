@@ -8,6 +8,10 @@ class Sudoku {
 private:
     static constexpr int sideLength = 9;
 
+    static constexpr int BLANK = -1;
+    
+    static constexpr char BLANK_CHAR = '.';
+
     std::array<std::array<int, sideLength>, sideLength> board;
 
 public:
